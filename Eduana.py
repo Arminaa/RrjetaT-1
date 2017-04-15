@@ -29,8 +29,8 @@ elif llojiKerkeses=='TIME':
 
 elif llojiKerkeses=='KENO':
      i=1
-     fund=81
-     while i <= fund:
+     
+     while i <= 81:
           pergjigjja = randint(0,80)
           print(pergjigjja)
           i=i+1
@@ -74,7 +74,7 @@ elif llojiKerkeses=='FAKTORIEL':
   
 
 elif llojiKerkeses=='HOST':
-    pergjigjja="P"
+     pergjigjja="P"
 
 else:
     pergjigjja="Invalid"
