@@ -28,7 +28,7 @@ elif llojiKerkeses=='TIME':
     pergjigjja="P"
 
 elif llojiKerkeses=='KENO':
-     i=1
+     i=2
      
      while i <= 81:
           pergjigjja = randint(0,80)
